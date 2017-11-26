@@ -1,0 +1,14 @@
+{
+    "errrorCode": "",
+    "errrorMsg": "success",
+    "success": true,
+    "result":{"cityList":[{
+        "cityCode": "340600",
+        "cityName": "淮北",
+        "spelling": "HUAIBEI"
+    }, {
+        "cityCode": "340600",
+        "cityName": "上海",
+        "spelling": "SHANGHAI"
+    }]}
+}

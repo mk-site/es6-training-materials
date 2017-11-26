@@ -1,0 +1,1 @@
+{"version":3,"sources":["whole.js"],"names":["aa","a","bb","b"],"mappings":";;;;;AAAA,UAASA,EAAT,CAAYC,CAAZ,EAAc;AACb,SAAO,IAAEA,CAAT;AACA;AACD,UAASC,EAAT,CAAYC,CAAZ,EAAc;AACb,SAAO,IAAEA,CAAT;AACA;;;;;iBAGOH,E;;iBAAGE,E","file":"whole.js","sourcesContent":["function aa(a){\n\treturn 2*a;\n}\nfunction bb(b){\n\treturn 3*b;\n}\n\n\nexport {aa,bb};\n\n\n"]}

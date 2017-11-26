@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ES6 module</title>
+    <base href="/">
+</head>
+<body>
+    <h1>Using ES6 Modules</h1>
+    <div id="output"></div>
+
+    <script src="/node_modules/systemjs/dist/system.js"></script>
+
+    <script src="config.js"></script>
+    <script>
+        System.import('main');
+    </script>
+</body>
+</html>

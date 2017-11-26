@@ -1,0 +1,1 @@
+{"version":3,"sources":["counter.js"],"names":["incCounter","counter"],"mappings":";;;;;;AACO,UAASA,UAAT,GAAqB;AAC3B,gCAAS,CAAT;AACA;;uBAFeA,U;;;;;sBADLC,O,GAAQ,C","file":"counter.js","sourcesContent":["export let counter=3;\nexport function incCounter(){\n\tcounter+=1;\n}\n"]}
